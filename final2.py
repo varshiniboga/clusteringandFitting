@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from scipy.optimize import curve_fit
-import numpy as np
+import numpy as np 
 from scipy import stats
 from sklearn.metrics import silhouette_score
 
